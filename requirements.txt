@@ -1,0 +1,11 @@
+langchain
+python-dotenv
+ipykernel
+streamlit
+openai
+langchain_community
+pypdf
+bs4
+arxiv
+pymupdf
+wikipedia
